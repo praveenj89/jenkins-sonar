@@ -1,4 +1,10 @@
 <?php
+
+// Division by zero
+$a = 10 / 0;
+
+// Undefined variable
+echo $undefinedVar;
 // File: security-demo.php
 
 // 1️⃣ Hardcoded credentials (security hotspot)
